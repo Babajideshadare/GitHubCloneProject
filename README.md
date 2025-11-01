@@ -1,1 +1,2 @@
-Objective: Practice branching — MAIN VERSION
+Objective: Practice branching — Combined version
+Modification in main branch.
