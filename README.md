@@ -1,1 +1,1 @@
-Objective: Practice branching, making changes, merging, and resolving conflicts.
+Objective: Practice branching — FEATURE VERSION
